@@ -1,0 +1,23 @@
+.DS_Store
+__pycache__/
+*.pyc
+.Rhistory
+.RData
+
+# generated experiment outputs / large data
+rep*/
+*.csv
+*.npz
+*.npy
+*.bin
+*.rds
+*.RDS
+*.pkl
+*.mat
+*.h5
+*.hdf5
+*.png
+*.pdf
+*.zip
+*.tar
+*.tar.gz
